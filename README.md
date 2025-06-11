@@ -111,7 +111,7 @@ Proyek ini merupakan sistem ETL (Extract, Transform, Load) yang bertujuan untuk 
 |-------------------|------------------------------------------------|
 | **Adam Mahabayu Muhibulloh (234311002)**  | [🌐 Profile](https://github.com/adammahabayu) |
 | **Afiq Galuh Setya Ramadhani (234311004)**      | [🌐 Profile](https://github.com/afiqgsr)    |
-| **Alfonsus William Hamonangan Sinaga(234311005)**  | [🌐 Profile](https://github.com/willidevv) |
+| **Alfonsus William Hamonangan Sinaga (234311005)**  | [🌐 Profile](https://github.com/willidevv) |
 | **Fauzan Fathin Zaky (234311014)**      | [🌐 Profile](https://github.com/fauzan123ae)    |
 
 ---
