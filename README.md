@@ -109,10 +109,10 @@ Proyek ini merupakan sistem ETL (Extract, Transform, Load) yang bertujuan untuk 
 
 | Contributor       | GitHub Profile                                  |
 |-------------------|------------------------------------------------|
-| **Adam Mahabayu Muhibulloh**  | [🌐 Profile](https://github.com/adammahabayu) |
-| **Afiq Galuh Setya Ramadhani**      | [🌐 Profile](https://github.com/afiqgsr)    |
-| **Alfonsus William Hamonangan Sinaga**  | [🌐 Profile](https://github.com/willidevv) |
-| **Fauzan Fathin Zaky**      | [🌐 Profile](https://github.com/fauzan123ae)    |
+| **Adam Mahabayu Muhibulloh (234311002)**  | [🌐 Profile](https://github.com/adammahabayu) |
+| **Afiq Galuh Setya Ramadhani (234311004)**      | [🌐 Profile](https://github.com/afiqgsr)    |
+| **Alfonsus William Hamonangan Sinaga(234311005)**  | [🌐 Profile](https://github.com/willidevv) |
+| **Fauzan Fathin Zaky (234311014)**      | [🌐 Profile](https://github.com/fauzan123ae)    |
 
 ---
 
